@@ -244,6 +244,7 @@ margin:0;
     -o-transform: translateY(-30%);
 }
 
+
 .header-search input {
     flex: 1;
     padding: 8px 12px;
@@ -284,4 +285,5 @@ margin:0;
         width: 100%;
         margin: auto;
     }
+
 }
